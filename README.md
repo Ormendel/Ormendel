@@ -9,7 +9,7 @@
 ## ❤ Views and Followers
 
 
-![](https://komarev.com/ghpvc/?username=Ormendel&style=flat-square)
+![Watched this profile](https://komarev.com/ghpvc/?username=Ormendel&style=flat-square)
 
 ![GitHub followers](https://img.shields.io/github/followers/Ormendel?style=flat-square)
 <!--
