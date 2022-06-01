@@ -5,6 +5,13 @@
 - 🤔 I’m looking for a job in development/DB's
 - 📫 How to reach me: orimendel@gmail.com
 - ⚡ Fun fact: I love sports, and open minded!
+
+## ❤ Views and Followers
+
+
+![](https://komarev.com/ghpvc/?username=Ormendel&style=flat-square)
+
+![GitHub followers](https://img.shields.io/github/followers/Ormendel?style=flat-square)
 <!--
 **Ormendel/Ormendel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
