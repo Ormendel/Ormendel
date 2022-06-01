@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: orimendel@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I love sports, and open minded!
+- ⚡ Fun fact: I love sports, and open minded to new things!
 -->
