@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on a project
 - 🤔 I’m looking for a job in development/DB's
 - 📫 How to reach me: orimendel@gmail.com
-- ⚡ Fun fact: I love sports, and open minded!
+- ⚡ Fun fact: I love sports, and open minded to learning new things such as other porgramming languages!
 
 ## ❤ Views and Followers
 
