@@ -1,3 +1,5 @@
+![gif](https://user-images.githubusercontent.com/57266329/171694216-31b5bdbf-7fb0-47ef-9cc4-07c4926f5ab9.png)
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">, I'm Or!</h1>
 
 - 🌱 I have skills in python, java, C++, C, MongoDB, javascript and more known databases.
