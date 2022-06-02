@@ -1,4 +1,4 @@
-<h2 align = "center"> ![](https://media.giphy.com/media/L18hQ0fJdupJIXJz20/giphy.gif) </h2>
+![](https://media.giphy.com/media/L18hQ0fJdupJIXJz20/giphy.gif)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">, I'm Or!</h1>
 
