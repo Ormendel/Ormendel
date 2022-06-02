@@ -1,3 +1,5 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Or!</h1>
+
 ### Hi there, I'm Or 👋 
 
 - 🌱 I have skills in python, java, C++, C, MongoDB, javascript and more known databases.
