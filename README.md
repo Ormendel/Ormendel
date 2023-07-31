@@ -5,7 +5,10 @@ I'm Or
 Graduated with a bachelor's degree in CS & Math at Ariel University
 -------------------------------------------------------------------
 
-The process till graduation was long and quite exhausting, however satisfying. I've learnt a lot during those years in Python, Java, C, C++, Assembly, NodeJS and more. I'm looking for an opportunity to fit into hi-tech industry, preferring data analyst/data engineer positions, as well as software engineer positions - for juniors. I am passionate, motivated and do self-projects, and later on I will put them in my github, for documentation.
+The process till graduation was challenging, interesting and satisfying. 
+I've learnt a lot during those years in Python, Java, C, C++, Assembly, NodeJS and more. 
+I'm looking for an opportunity to fit into hi-tech industry, preferring data analyst/data engineer positions, as well as software engineer positions - for juniors.
+I am passionate, motivated and do self-projects, and later on I will put them in my github, for documentation.
 
 * ✉️  You can contact me at [orimendel@gmail.com](mailto:orimendel@gmail.com)
 * 🚀  I'm currently working on [self learning](http://github.com/Ormendel?tab=repositories)
