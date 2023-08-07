@@ -12,7 +12,7 @@ I am passionate, motivated and do self-projects, and later on I will put them in
 
 * ✉️  You can contact me at [orimendel@gmail.com](mailto:orimendel@gmail.com)
 * 🚀  I'm currently working on [self learning](http://github.com/Ormendel?tab=repositories)
-* 🧠  I'm learning SQL, NodeJS and .NET
+* 🧠  I'm currently learning learning SQL, NodeJS and .NET and working on medium-level projects (around 3 months each)
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I absolutely love climbing, hope to be a proffesional one day
 
